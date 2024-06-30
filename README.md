@@ -1,7 +1,7 @@
 <div>
     <h3 align="center">Proto 1mg Scraper</h3>
     <p align="center">
-        Proto 1mg Scraper is a web scraper that extracts information of the medicines and health products from the [1mg](https://www.1mg.com/) website.
+        Proto 1mg Scraper is a web scraper that extracts information of the medicines and health products from the <a href="https://www.1mg.com/">1mg</a> website.
     </p>
 </div>
 
